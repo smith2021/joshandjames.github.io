@@ -1,1 +1,0 @@
-[https://upload.wikimedia.org/wikipedia/commons/c/c8/The_Santiago_Bernabeu_Stadium_-_U-g-g-B-o-y.jpg](https://upload.wikimedia.org/wikipedia/commons/c/c8/The_Santiago_Bernabeu_Stadium_-_U-g-g-B-o-y.jpg)
