@@ -6,10 +6,10 @@ Our website for computer science. This website entails the various soccer positi
 
 When creating a page, make sure that your page meets these requirements:
 
-- [ ] Navigation bar included
-- [ ] Background Color/Image
-- [ ] Cited Image
-- [ ] Link to video
-- [ ] At least one header and paragraph
-- [ ] External CSS
-- [ ] JavaScript feature
+- Navigation bar included
+- Background Color/Image
+- Cited Image
+- Link to a relevant video
+- At least one header and paragraph
+- External CSS
+- JavaScript feature
